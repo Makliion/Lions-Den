@@ -69,10 +69,11 @@ Download `LionsDen_Setup_1.2.0.exe` and run it. No admin rights needed. Requires
 
 Нужны Steam и установленная DayZ.
 
-<img width="2546" height="1386" alt="Screenshot_1" src="https://github.com/user-attachments/assets/4eb34c99-64b7-4060-9fd7-9789cf74a41c" />
-<img width="2544" height="1388" alt="Screenshot_2" src="https://github.com/user-attachments/assets/14a0c6af-d7ca-4688-b6be-d578f2b65888" />
-<img width="2552" height="1384" alt="Screenshot_3" src="https://github.com/user-attachments/assets/7c492202-a8d2-4999-a0b4-c9c889343241" />
-<img width="2546" height="1388" alt="Screenshot_4" src="https://github.com/user-attachments/assets/70266a6b-d3d4-4f2b-ae35-c7340d1f9c51" />
-<img width="2548" height="1392" alt="Screenshot_5" src="https://github.com/user-attachments/assets/12d3e534-aed9-4cbd-bbbe-203a1265f4f8" />
+<img width="100%" alt="Lion's Den DayZ launcher — Home" src="screenshots/Screenshot_73.png" />
+<img width="100%" alt="Lion's Den DayZ launcher — Servers" src="screenshots/Screenshot_74.png" />
+<img width="100%" alt="Lion's Den DayZ launcher — Mods" src="screenshots/Screenshot_75.png" />
+<img width="100%" alt="Lion's Den DayZ launcher — DLC" src="screenshots/Screenshot_76.png" />
+<img width="100%" alt="Lion's Den DayZ launcher — Parameters" src="screenshots/Screenshot_77.png" />
+<img width="100%" alt="Lion's Den DayZ launcher — Settings" src="screenshots/Screenshot_78.png" />
 
 _by Makliion_
